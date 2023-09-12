@@ -1,0 +1,1 @@
+This is readme of Comp3111 Lab 1
